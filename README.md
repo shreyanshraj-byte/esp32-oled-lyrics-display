@@ -117,10 +117,6 @@ To record another take, press Enter again, or press RST on the board.
 Song lyrics are protected by copyright, so none are included in this repository. Add the lyrics for your own song locally before uploading to the board, and avoid committing them to a public repository.
 
 
-## Credits
-
-Inspired by the ESP32 OLED animation projects shared by the maker community.
-
 
 ## License
 
