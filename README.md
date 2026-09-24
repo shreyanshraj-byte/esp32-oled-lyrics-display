@@ -5,6 +5,15 @@ A small ESP32 project that shows song lyrics on a 0.96" OLED screen, one word at
 The project comes with a tap timer, so you can sync any song yourself: play the song and press Enter on every new word. The timings are printed out, ready to paste into the display sketch.
 
 <!-- Photos and video: edit this file on GitHub and drag them in below this line -->
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/0a64f4f1-b7c0-4a79-b3b6-5bfdc77a2ffb" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/50f935d2-03d7-4c00-a4d2-24200f0264cf" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/6d5e4f28-8f73-40d2-bb4a-06883863c65f" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/8c52c1c3-266c-4f1d-945f-3d47d4b9802a" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/1ee283b1-42db-4f06-8efd-55a286f5f00e" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/8ec4a0f8-dc08-4a9b-8fcd-3f75d49c488e" />
+
+
+
 
 
 ## Features
